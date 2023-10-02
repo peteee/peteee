@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on stuff
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Pizza
+- ⚡ Fun fact: I like Pizza
+
 <!--
 **peteee/peteee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
